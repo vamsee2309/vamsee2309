@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @vamsee2309
+- 👋 Hi, I’m @Vamsee Balleda
 - 👀 I’m interested in development
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently learning Maven and spring boot
 - 📫 How to reach me vamseeballeda@gmail.com
 - - 💞️ I’m looking to collaborate on ...
 

@@ -2,7 +2,6 @@
 - 👀 I’m interested in development
 - 🌱 I’m currently learning Maven and spring boot
 - 📫 How to reach me vamseeballeda@gmail.com
-- - 💞️ I’m looking to collaborate on ...
 
 
 <!---
